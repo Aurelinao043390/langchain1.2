@@ -1,1 +1,1 @@
-langchain1.2的练习代码，以及做了1个知识库的问答小助手的demo
+基于LangChain+Qwen的企业级RAG知识库问答系统
